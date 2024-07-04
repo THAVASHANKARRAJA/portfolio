@@ -80,3 +80,12 @@
     z-index: 1;
   }
 }
+
+@media screen and (max-width: 550px){
+  .title {
+    font-weight: 600;
+    font-size: large;
+  }
+
+
+}
