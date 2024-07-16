@@ -11,7 +11,7 @@
     "title": "Sentiment Analysis App",
     "imageSrc": "projects/project.png",
     "description": "Sentiment analysis with LSTM model using python",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["Tensorflow", "Python","Streamlit","Nltk"],
     "demo": "https://wildbeans-coming-soon.netlify.app/",
     "source": "https://github.com/THAVASHANKARRAJA/sentiment_analysis"
   },
